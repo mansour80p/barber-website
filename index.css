@@ -1,0 +1,414 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.parent
+{
+    
+background-image: url("../barber/photo/barber-15.jpg");
+background-size: cover;
+background-position: center top;
+bac
+width: 100%;
+height: 800px;
+opacity: 95%;
+}
+.child
+{
+   position: relative;
+   top: 220px;
+    width:50%;
+    left:30px;
+    
+  
+    height: 200px;
+
+}
+.h1
+{
+    font-family: 'Lora';
+font-size: 76;
+font-weight: 400;
+color:white;
+position: relative;
+left: 30px;
+}
+.p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: rgba(255,255,255, .92);
+    font-weight: 800;
+   width: 500px;
+    text-align: left;
+    position: relative;
+    left: 30px;
+}
+.hyper
+{
+    text-transform: uppercase;
+    position: relative;
+    top:30px;
+    background-color: #ae9768;
+    padding: 15px 30px;
+    text-decoration: none;
+    color: white;
+    border:none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: 'Open Sans', Arial;
+    font-weight: bolder;
+    left:30px;
+    text-align: center;
+    
+}
+.hyper:hover{
+    background-color: white;
+    color:black;
+    font-weight: 900;
+}
+.a {
+    margin-left: 10px;
+}
+.se2
+{
+    width: 100%;
+    height:250px;
+    display:inline-block;
+}
+.s1
+{
+    position: relative;
+    margin-left: 30px;
+    margin-right:20px;
+   
+
+    top:150px;
+    width:20%;
+    display:inline-block;
+}
+.h2
+{
+    color: #ae9768;
+    font-weight: 500;
+    font-size: 17px;
+    font-family: "Lora";
+text-align: center;
+}
+.d1
+{
+    margin-left: 50px;
+}
+.p1
+{
+color: #888;
+font-size: 14px;
+line-height: 1.86em;
+font-family: 'Open Sans',arial;
+font-weight: 400;
+text-align: center;
+
+}
+.who
+{
+    width: 100%;
+    height:600px;
+    background-color: #f8f8f8;
+    overflow: hidden;
+    position: relative;
+    top: 50px;
+}
+.photo
+{
+    float: right;
+}
+.weare
+{
+    position: relative;
+    left: 80px;
+    font-family: "Lora";
+    font-size: 32px;
+    color: #ae9768;
+}
+.p5
+{
+    font-size: 1.04em;
+    color: #606060;
+    font-family: 'Open Sans',arial;
+    font-weight: 600;
+    font-size: 15px;
+    width: 668;
+    position: relative;
+    left: 80px;
+}
+.we
+{
+    position: relative;
+    top:90px;
+}
+.secc4
+{
+    float: left;
+    width: 300px;
+    height:200px;
+    position: relative;
+    top: 200;
+    left: 80px;
+}
+.pr {
+    font-family: 'Open Sans',arial;
+    color: #ae9768;
+    font-size: 17px;
+    font-family: "Lora";
+font-weight: 500;
+
+}
+.ps
+{
+    font-family: 'Open Sans',arial;
+    font-weight: 400;
+    color: #686868;
+    font-size: 15px;
+}
+.arc
+{
+    width: 100%;
+    height: 450px;
+}
+.ss3
+{
+    text-align: center;
+    position: relative;
+    top: 120px;
+    font-family: "Lora";
+    color: #ae9768;
+}
+.gh
+{
+    text-align: center;
+    position: relative;
+    top:130px;
+    color: #888;
+    font-family: 'Open Sans',arial;
+    font-weight: 800;
+}
+.info
+{
+    padding: 40px 36px;
+    position: relative;
+    top: 200px;
+width: 25%;  
+display: inline-block;  
+left: 90px;
+
+}
+.h3
+{
+
+    color: #ae9768;
+    font-family: "Lora";
+    font-size: 17px;
+}
+.para
+{
+    color: #888;
+    font-size: 15px;
+    font-family: 'Open Sans',arial;
+    position: relative;
+    top:10px;
+   
+}
+iframe
+{
+    position: relative;
+    top:3px;
+    right: 50px;
+    float: right;
+  width: 30%;
+  height: 600px;
+   
+}
+.goog
+{
+    width: 100%;
+    background: #f8f8f8;
+position: relative;
+top: 200px;
+overflow: auto;
+overflow: hidden;
+}
+.contact
+{
+    color: #ae9768;
+    font-family: "Lora";
+    position: relative;
+    left: 50px;
+}
+.parag
+{
+    font-family: 'Open Sans',arial;
+    color: #686868;
+    width: 565px;
+    font-weight: 400;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.cont
+{
+    position: relative;
+ 
+    top:320px;
+}
+.ho {
+    color: #686868;
+    position: relative;
+    top: 80px;
+    left:50px;
+    font-family: 'Open Sans',arial;
+    font-weight: 400;
+font-size: large;
+padding: 10px 30px;
+}
+.ho1{
+    font-size: medium;
+    font-weight: 700;
+}
+.about
+{
+  background-color:   #403d38;
+    width: 100%;
+    height:400px;
+    position: relative;
+    top:300px;
+}
+.aboutus
+{
+    width: 20%;
+float: left;
+position: relative;
+top: 80px;
+left: 30px;
+}
+
+.aboutus h3
+{
+   padding: 10px;
+    color: white;
+
+    font-family: "Lora";
+    
+    font-size: 17px;
+}
+.aboutus p
+{
+    top: 140px;
+    color: #969696;
+    opacity: 1;
+
+    font-family: 'Open Sans',arial;
+    font-weight: 400;
+   
+    font-size: 17px; 
+}
+.para1
+{
+    padding-top: 10px;
+    
+}
+.gallary
+{
+   
+    bottom: 150px;
+    color: white;
+    float: left; 
+    width: 10%;
+    position: relative;
+    top: 80px;
+left: 150px;
+}
+.opening
+{
+    position: relative;
+    top: 80px;
+left: 250px;
+    float: left;
+    width: 20%;
+    color: white;
+    font-weight: bold;
+    
+}
+.det
+
+{
+    font-weight: bold;
+    position: relative;
+    top: 80px;
+left: 350px;
+
+    color: white;
+    position: relative;
+    float: left;
+    width: 20%;
+}
+.cs 
+{
+    position: relative;
+    top: 15px;
+    font-family: 'Open Sans',arial;
+    font-weight: 400;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+    border-bottom-color: rgba(255, 255, 255, 0.05);
+    color: #969696;
+font-size: 17px;
+font-weight: 400;
+padding-bottom: 8px;
+}
+.cs::before
+{
+    content: ">  ";
+    font-size:18px;
+}
+.as {
+    position: relative;
+    top: 15px;
+    font-family: 'Open Sans',arial;
+    font-weight: 400;
+ padding: 20px 15px;
+    color: #969696;
+font-size: 17px;
+font-weight: 400;
+text-decoration: none;
+
+}
+.az
+{
+    padding-bottom: 8px;
+    width: 267px;
+}
+hr{
+    margin-top: 20px;
+  border: 1px solid   rgba(255,255,255,0.05);
+}
+.final 
+{
+    background-color: #353330;
+    position: relative;
+    top: 400px;
+    
+    width: 100%;
+    height: 200px;
+}
+.final img
+{
+    position: relative;
+    top:10px;
+    right: 370px;
+}
+.final p{
+    color: #777;
+  right:   414px;
+  position: relative;
+  top: 15px;
+  font-size: 18px;
+}
